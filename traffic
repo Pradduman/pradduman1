@@ -1,0 +1,134 @@
+﻿<html>
+<head>
+<title> Bootstrap demo </title>
+<link rel="stylesheet" href="bootstrap.min.css"/>
+<script src=""bootstrap.min.js"></script>
+</head>
+<body>
+<div class="row">
+<div class="col-md-12 col-sm-6 col-xs-6"
+style="background:orange;height:100px;">
+<h2 class="text-left" style="color:white;"> LIFE IS A LIFESTYLE </h2>
+
+
+
+<div class="container">
+  
+  <div class="hai">
+  <div class="text-right">
+
+  <button type="button" class="btn btn-danger">Home</button>
+  <button type="button" class="btn btn-danger">About us</button>
+  <button type="button" class="btn btn-danger">Contact</button>
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+<div class="row">
+    <div class="col-md-6">
+  <br>    <div class="thumbnail">
+          <img src="portrait.jpg" class="img-responsive" alt="Cinque Terre" width="500" height="300">           
+
+          
+            <div class="caption">
+          </div>
+        
+      </div>
+    </div>
+    <div class="col-md-6">
+      
+        
+<br>          <div class="thumbnail">
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.Nature, in the broadest sense, is the natural, physical, or material world or universe. "Nature" can refer to the phenomena of the physical world, and also to life in general. The study of nature is a large part of science. Although humans are part of nature, human activity is often understood as a separate category from other natural phenomena.Within the various uses of the word today, "nature" often refers to geology and wildlife. Nature can refer to the general realm of living plants and animals, and in some cases to the processes associated with inanimate objects–the way that particular types of things exist and change of their own accord, such as the weather and geology of the Earth. It is often taken to mean the "natural environment" or wilderness–wild animals, rocks, forest, and in general those things that have not been substantially altered by human intervention, or which persist despite human intervention</p>
+          </div>
+        
+      </div>
+    </div>
+
+
+
+
+
+
+
+<div class="container">
+<div class="row">
+    <div class="col-sm-6" style="background-color:white;">
+    <h1 class="text-center"> About Us</h1>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Earth has evolved through geological and biological processes that have left traces of the original conditions. The outer surface is divided into several gradually migrating tectonic plates.The outer surface is divided into several gradually migrating tectonic plates.
+    </div>
+    <div class="col-sm-6" style="background-color:white;">
+     <h1 class="text-center"> Blog</h1>
+
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.Despite the wide regional variations in climate by latitude and other geographic factors, the long-term average global climate is quite stable during interglacial periods,[8] and variations of a degree or two of average global temperature have historically had major effects on the ecological balance, and on the actual geography of the Earth.    
+    </div>
+
+</div>
+</div>
+
+
+
+
+
+<div class="container">
+ <div class="row">
+    <div class="col-md-4">
+     <br> <div class="thumbnail">
+<img src="1.jpg" style="border-radius:5%"  class="img-responsive" alt="Cinque Terre" width="300" height="200"> 
+          <div class="caption">
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.Despite the wide regional variations in climate by latitude and other geographic factors, the long-term average global climate is quite stable during interglacial periods,[8] and variations of a degree or two of average global temperature have historically had major effects on the ecological balance, and on the actual geography of the Earth.</p>
+          </div>
+        
+      </div>
+    </div>
+    <div class="col-md-4">
+   <br>   <div class="thumbnail">
+<img src="2.jpg" style="border-radius:5%" class="img-responsive" alt="Cinque Terre" width="300" height="200"> 
+          <div class="caption">
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.Despite the wide regional variations in climate by latitude and other geographic factors, the long-term average global climate is quite stable during interglacial periods,[8] and variations of a degree or two of average global temperature have historically had major effects on the ecological balance, and on the actual geography of the Earth.</p>
+          </div>
+        
+      </div>
+    </div>
+    <div class="col-md-4">
+  <br>    <div class="thumbnail">
+<img src="3.jpg" style="border-radius:5%"  class="img-responsive" alt="Cinque Terre" width="300" height="200"> 
+          <div class="caption">
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.Despite the wide regional variations in climate by latitude and other geographic factors, the long-term average global climate is quite stable during interglacial periods,[8] and variations of a degree or two of average global temperature have historically had major effects on the ecological balance, and on the actual geography of the Earth.</p>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+ </div>
+  
+
+
+
+
+
+
+<div class="row"  style="margin-left:-80px;background:orange;width:1400px;height:80px;">
+</div>
+</div>
+
+
+
+</body>
+</html>
